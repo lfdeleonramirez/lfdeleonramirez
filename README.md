@@ -12,9 +12,9 @@ Especializado en la creación de soluciones **Cloud-Native** en AWS, llevando la
 | **IAC:** Terraform / CloudFormation | **GitOps:** ArgoCD / Gestión declarativa | **Frontend:** Angular / TypeScript |
 | **Middleware:** SQS, SNS, RDS, ElastiCache | **Monitoreo:** AWS CloudWatch, Prometheus (Conceptual) | **Seguridad:** OAuth2, JWT, IAM Roles |
 
-### **🛠️ Proyectos de Arquitectura Clave (Lo que Solucioné)**
+### **🛠️ Proyectos de Arquitectura Clave**
 
-Aquí se destacan mis contribuciones más relevantes, basadas en tu experiencia en el SAT y tus habilidades.
+He trabajado en diferentes proyectos que han permitido al ciudadano la fácil interacción con la plataforma de SAT
 
 #### **1\. 🛡️ Implementación de Arquitectura de Microservicios Seguros**
 
@@ -30,7 +30,7 @@ Apliqué la filosofía GitOps para automatizar la promoción de código a produc
 
 * **Tecnologías:** Microk8s (local) \-\> **AWS EKS** (producción), ArgoCD.  
 * **Patrón:** Utilización de **ApplicationSet** para gestionar configuraciones idénticas/diferenciadas entre entornos de forma declarativa.  
-* **Clave:** Mi trabajo se centra en el **traslado inmediato de aplicaciones a producción** (20/09/2024 \- Actual).
+* **Clave:** Mi trabajo se centra en el **traslado inmediato de aplicaciones a producción**.
 
 #### **3\. 🌐 Despliegue de Aplicaciones en Entornos Híbridos (AWS & On-Premises)**
 
