@@ -53,6 +53,6 @@ Siempre estoy disponible para discutir retos de arquitectura en AWS, optimizaci�
 
 | Contacto | Redes Sociales |
 | :---- | :---- |
-| 📧 **Email:** \[luisdeleonramirez@outlook.com\] |  |
+| 📧 **Email:** \[luisdeleonramirez@gmail.com\] |  |
 
-\<p align="right"\> Infraestructura como código, código como arte. \</p\>
+### **🤝 Infraestructura como código, código como arte.**
